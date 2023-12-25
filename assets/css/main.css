@@ -2229,17 +2229,18 @@ input[type="radio"] + label:before {
   width: 100%;
 }
 
-.image.avatar {
+/* .image.avatar {
   border-radius: 100%;
-}
+} */
 
 .image.avatar:before {
   display: none;
 }
 
 .image.avatar img {
-  border-radius: 100%;
-  width: 100%;
+  object-fit: contain;
+  /* width: 50%; */
+  overflow: hidden;
 }
 
 /* List */
@@ -2752,6 +2753,7 @@ input[type="button"]:disabled,
   align-self: center;
   justify-self: flex-end;
   padding-top: 50px;
+  width: 35%;
 }
 
 /* Footer */
