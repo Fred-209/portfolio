@@ -2749,7 +2749,6 @@ input[type="button"]:disabled,
 
 #header .image.avatar {
   margin: 0 0 1em 0;
-  width: 50%;
   align-self: center;
   justify-self: flex-end;
   padding-top: 50px;
