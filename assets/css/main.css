@@ -3252,6 +3252,11 @@ body.is-touch .poptrox-popup .closer {
   height: 100%;
 }
 
+#one a {
+  text-decoration: none;
+  border-bottom: none;
+}
+
 /* #one h2 {
   margin-top: 10%;
   color: ;
