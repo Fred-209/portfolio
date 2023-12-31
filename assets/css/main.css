@@ -3259,6 +3259,10 @@ body.is-touch .poptrox-popup .closer {
   width: 100%;
 }
 
+#one ul {
+  margin-top: 50px;
+}
+
 /* Small */
 
 @media screen and (max-width: 736px) {
@@ -3434,13 +3438,7 @@ body.is-touch .poptrox-popup .closer {
   margin: 0;
 }
 
-/* .icons img {
-  width: 30%;
+#demo-image {
+  height: auto;
+  align-self: left;
 }
-
-#icons {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  max-width: 75%;
-} */
