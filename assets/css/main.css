@@ -2752,6 +2752,10 @@ input[type="button"]:disabled,
 #header h6 {
   color: #ffffff;
 }
+/* #header h3 {
+  margin-right: 10%;
+  margin-left: 10%;
+} */
 
 #header h1 {
   color: white;
@@ -3432,6 +3436,8 @@ body.is-touch .poptrox-popup .closer {
 
 #section-two-bottom-row img {
   object-fit: contain;
+  max-width: 80%;
+  height: 150px;
 }
 
 #section-two-bottom-row p {
@@ -3450,14 +3456,17 @@ body.is-touch .poptrox-popup .closer {
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  width: 50%;
+  width: 75%;
   margin: auto;
+  margin-bottom: 15%;
 }
 
 #sidebar-icons img {
-  width: 75%;
+  width: 100%;
   height: auto;
   max-width: 75px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 #sidebar-icons li {
