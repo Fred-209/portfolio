@@ -3464,7 +3464,7 @@ body.is-touch .poptrox-popup .closer {
 #sidebar-icons img {
   width: 75%;
   height: auto;
-  max-width: 75px;
+  max-width: 50px;
   margin-left: 10px;
   margin-right: 10px;
 }
