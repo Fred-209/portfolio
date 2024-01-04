@@ -3387,6 +3387,10 @@ body.is-touch .poptrox-popup .closer {
   p {
     color: #2b2a2a;
   }
+
+  a {
+    border-bottom: none;
+  }
 }
 
 #section-two-top-row {
